@@ -1,10 +1,10 @@
 create a .env file in root and add 
 ```bash
 PORT = 3000
-HOST = "localhost"
-DATABASE= "musicdb"
-USER = "root"
-PASSWORD = ""
+HOST = "your host name"
+DATABASE= "your database name"
+USER = "your user name "
+PASSWORD = "your password"
 
 JWT_SECRET = "secret"
 ```
