@@ -12,3 +12,18 @@ JWT_SECRET = "secret"
  ```bash
 npm i
 ```
+to run the project 
+
+```bash
+npm run start 
+``` 
+for registration ( http://localhost:3000/users/registration  )
+```bash
+
+## in body 
+{
+    "name":"test",
+    "email":"test@gmail.com",
+    "password":"123456"
+}
+```
